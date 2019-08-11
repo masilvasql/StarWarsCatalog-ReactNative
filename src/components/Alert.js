@@ -34,7 +34,7 @@ export default props => (
                         </View>
                         <View style={estiloAlert.viewEpisode}>
                             <Text style={estiloAlert.txtSubTitulo}>Producer: </Text>
-                            <Text style={estiloAlert.txtSubTitulo}>{props.producer}</Text>
+                            <Text style={[estiloAlert.txtSubTitulo,{flex:1}]}>{props.producer}</Text>
                         </View>
                         <View style={estiloAlert.viewEpisode}>
                             <Text style={estiloAlert.txtSubTitulo}>Release date: </Text>

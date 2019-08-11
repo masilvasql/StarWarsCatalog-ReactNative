@@ -136,7 +136,8 @@ const estiloAlert = StyleSheet.create({
     txtSubTitulo: {
         fontWeight: 'bold',
         fontSize: 18,
-        color: 'rgba(87, 101, 116,1.0)',
+        color: 'rgba(87, 101, 116,1.0)',  
+        flexWrap:'wrap'  
   
     },
     viewBtns: {
