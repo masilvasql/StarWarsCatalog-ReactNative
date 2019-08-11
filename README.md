@@ -17,12 +17,14 @@ ________________________________________________________________________________
 ##### 1.2 - Abrir o Expo no seu SmartPhone;
 ##### 1.3 - Clicar em Scan QR Code;
 ##### Ao efetuar este processo, o aplicativo será EMULADO em seu dispositivo.
+##### A Primeira tela, contará com a lista dos filmes. Ao Clicar sobre ela, irá aparecer uma outra tela com as informações, para fechar esta tela, basta clicar no botão de voltar ou clicar sobre a estrela da morte.
 _________________________________________________________________________________
 #### 2 - IOS;
 ##### 2.1 - Acessar o link: https://expo.io/@masilva/StarWars;
 ##### 2.2 - Abrir a câmera do seu dispositivo;
 ##### 2.3 - Clicar na Push Notification que irá solicitar abertura com o EXPO;
 ##### Ao efetuar este processo, o aplicativo será EMULADO em seu dispositivo.
+##### A Primeira tela, contará com a lista dos filmes. Ao Clicar sobre ela, irá aparecer uma outra tela com as informações, para fechar esta tela, clicar sobre a estrela da morte.
 _________________________________________________________________________________
 
 # Imagens do APP, para melhor visualização, clicar sobre elas.
