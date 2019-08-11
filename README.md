@@ -6,9 +6,9 @@
 _________________________________________________________________________________
 # *Para efetuar os testes, você precisará estar conectado com a internet.*
 
-#### Para baixar o APK e efetuar testes no seu celular ANDROID, acessar o link:
+#### Para baixar o APK e efetuar testes no seu celular ANDROID, acessar o link: https://drive.google.com/open?id=1IYPZr-IT0ZeYTFPWKTwXMjeFH03S79mg
 #### Ao instalar no celular, irá pedir a liberação de fontes desconhecidas, será necessário habilitar, como não foi publicado na Play Store, não possui certificado ainda.
-#### Não será possível baixar para o ios.
+#### Não será possível baixar para o ios, mas, será possível fazer os testes. Seguir instruções a seguir.
 
 #### Caso NÃO queira instalar o app em seu dispositivo, baixe o aplicativo EXPO, existente tanto na App Store (IOS), quanto na Play Store (Android). Este processo irá permitir os testes tanto no Android quanto no IOS.
 #### Após instalado o EXPO, seguir os seguintes passos:
